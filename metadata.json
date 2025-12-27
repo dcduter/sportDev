@@ -1,0 +1,8 @@
+{
+  "name": "SportDev AI - Professional Fitness Platform",
+  "description": "An advanced exercise library and training platform featuring AI-powered form analysis, personalized coaching, and a high-performance orange-themed dark interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
